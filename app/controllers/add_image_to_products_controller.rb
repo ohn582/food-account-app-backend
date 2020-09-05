@@ -1,0 +1,2 @@
+class AddImageToProductsController < ApplicationController
+end

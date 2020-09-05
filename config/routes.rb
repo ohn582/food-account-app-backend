@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :add_image_to_products
   resources :cart_items
   resources :carts
   resources :products
