@@ -1,2 +1,2 @@
-class CartsController < ApplicationController
+class CartsController < ApplicationController::API
 end

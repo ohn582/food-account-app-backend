@@ -1,2 +1,2 @@
-class AddImageToProductsController < ApplicationController
+class AddImageToProductsController < ApplicationController::API
 end
